@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Countdown Timer</title>
 
+    <!-- Title bar icon -->
+    <link rel="icon" href="./title_bar.png">
+
     <!-- Linking style sheet -->
     <link rel="stylesheet" href="style.css">
-
-    <!-- Linking the javascript file -->
-    <script src="./script.js"></script>
 </head>
 <body>
     <!-- FOR THE HEADING -->
@@ -41,5 +41,12 @@
             <span>seconds</span>
         </div>
     </div>
+
+    <!-- Linking the javascript file -->
+    <!-- 
+        Script is placed here because if we place script in the hrading tag, then the script will run before the loading of the DOM,
+        thus we will be trying to get an element which has not been parsed yet, which will cause an error.
+    -->
+    <script src="./script.js"></script>
 </body>
 </html>
