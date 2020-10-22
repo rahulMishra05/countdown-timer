@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;500&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    background-image: url("./snow.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center center;
+    margin: 0;
+}
