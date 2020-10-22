@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Noto Sans JP', sans-serif;
-    background-image: url("./snow.jpg");
+    background-image: url("assets/snow.jpg");
     background-size: cover;
     min-height: 100vh;
     background-position: center center;
