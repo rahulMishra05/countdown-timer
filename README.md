@@ -18,5 +18,5 @@ If you want to make some changes in the code, then you can follow the following 
     cd countdown-timer
     ```
 ## 🚀 Live Demo
-If you want to see the live demo of the website, that how it looks then [click here](https://countdown-timer-rahul.netlify.app/)\
-You can also see the code and demo of the project on [CodePen](https://codepen.io/rahulMishra05/pen/wvWgbdq)
+- If you want to see the live demo of the website, that how it looks then [click here](https://countdown-timer-rahul.netlify.app/)
+- You can also see the code and demo of the project on [CodePen](https://codepen.io/rahulMishra05/pen/wvWgbdq)
